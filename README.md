@@ -1,4 +1,4 @@
-# Bright-TV
+# Bright-TV VIEWERSHIP REVIEW
 
 CASE STUDY: BrightTV (Viewership Analytics)
 
