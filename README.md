@@ -43,7 +43,9 @@ The analysis aims to identify TV  Vieweship Growth By category of Gender,Race,pr
 
 -**📽️Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation](https://github.com/dagadarofhiwa-creator/Bright-TV/blob/main/4.Project%20Presentation/Presentation.pdf)
 
--**🧹Uncleaned Data** - is available in CSV format within this repository.- [>🔗View Uncleaned Data](https://github.com/dagadarofhiwa-creator/Bright-TV/blob/main/1.Project%20Description%20%26%20Raw%20Data/Bright_TV_Raw%20data.xlsx)
+-**🧹Uncleaned Data** - userprofiles  is available in CSV format within this repository.- [>🔗View Uncleaned Data](https://github.com/Rofhiwadagada/Bright-TV/blob/main/1.Project%20Description%20%26%20Raw%20Data/BrightTV_UserProfiles.csv)
+
+-**🧹Uncleaned Data** - Viewership is available in CSV format within this repository.- [>🔗View Uncleaned Data](https://github.com/Rofhiwadagada/Bright-TV/blob/main/1.Project%20Description%20%26%20Raw%20Data/BrightTV_Viewership.csv)
 
 -**✨Excel Analysis File - Pivots & Graphs.- [>🔗View Cleaned Data](https://github.com/dagadarofhiwa-creator/Bright-TV/blob/main/3.Data%20%20Processing/Excel%20Analysis%20File%20-%20Pivots%20%26%20Graphs.xlsx)
 
