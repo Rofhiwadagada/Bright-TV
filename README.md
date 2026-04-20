@@ -57,7 +57,7 @@ The analysis aims to identify TV  Vieweship Growth By category of Gender,Race,pr
 -**Miro Planning** - This includes project goals, KPIs, filters, and design planning
 [> 🔗View Miro Board](https://github.com/dagadarofhiwa-creator/Bright-TV/blob/main/2.Project%20Planning/Methodology.png)
 
--interactive dashboard[ View Dashboard](https://presentation-insight-genie.lovable.app)
+-interactive dashboard[ View Dashboard](https://presentationtv.lovable.app)
 
 
 ##  Contact
