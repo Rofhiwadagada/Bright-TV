@@ -25,7 +25,7 @@ The analysis aims to identify TV  Vieweship Growth By category of Gender,Race,pr
 
 
 
-# Bright-Coffee-Shop-Analysis-Project
+
 ##  Tools & Technologies Used
 
 -  **Miro** – for project planning and workflow mapping  
